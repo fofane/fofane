@@ -9,4 +9,4 @@ I’m looking to collaborate with @jexlor, @sergisanodze, @Groundmann and @dread
 
 
 
-![fofane's GitHub stats](https://github-readme-stats.vercel.app/api?username=fofane&show_icons=true&theme=radical)
+![fofane's GitHub stats](https://github-readme-stats.vercel.app/api?username=fofane&show_icons=true&theme=dracula)
