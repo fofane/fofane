@@ -1,7 +1,7 @@
 Hi, I’m father fafner
 I’m interested in learning C++
 I’m currently learning Python
-I’m looking to collaborate with @jexlor
+I’m looking to collaborate with @jexlor and @sergey
 
 
 
