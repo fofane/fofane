@@ -5,7 +5,7 @@ I’m looking to collaborate with @jexlor
 
 
 
-![fofane's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fofane&layout=compact&theme=dark)
+![fofane's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fofane&layout=compact&theme=radical)
 
 
 
